@@ -1,2 +1,3 @@
-# breeze-bot-landingpage
-The landing page for the Breeze Bot!
+# Breeze Bot (the landing page)
+The landing page for Breeze Bot! The messenger chat bot for wind enthusiasts
+
