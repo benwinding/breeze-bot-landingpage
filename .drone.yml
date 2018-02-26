@@ -1,0 +1,4 @@
+pipeline:
+  build:
+    image: php
+    commands:
